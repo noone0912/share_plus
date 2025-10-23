@@ -12,6 +12,7 @@ static NSArray<NSString *> *PreferredBundlePrefixes(void) {
   return @[
     @"com.paygo24.ababank",
     @"com.domain.acledabankqr",
+    @"com.wingmoney.wingpay",
     @"kh.com.phillipbank.mobilebanking",
     @"com.sathapana.mBanking"
   ];
